@@ -21,6 +21,7 @@ This project is a web-based application that allows users to plot wavefunctions 
 
 1. Clone or download the repository to your local machine.
 2. Open the `index.html` file in a web browser.
+3. Site is deployed on vercel and access it [here](https://graphplot.vercel.app)
 
 ### Usage
 
@@ -36,8 +37,6 @@ This project is a web-based application that allows users to plot wavefunctions 
 - **CSS Styling**: The CSS styles enhance the appearance of the application, making it visually appealing and user-friendly.
 
 - **JavaScript Functions**:
-  - `appendToInput(value)`: Appends a value to the current input string.
-  - `clearInput()`: Clears the current input string.
   - `plotGraph(event)`: Handles form submission, evaluates the wavefunction, and plots the graph using Plotly.
 
 ### Example Wavefunctions
